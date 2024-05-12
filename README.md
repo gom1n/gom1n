@@ -40,6 +40,12 @@ Architecture |
 ![ModlularArchitecture](https://img.shields.io/badge/ModlularArchitecture-F54A2A?style=for-the-badge&logo=ModlularArchitecture&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-F54A2A?style=for-the-badge&logo=MVVM&logoColor=white)
 ![Coordinator](https://img.shields.io/badge/Coordinator-F54A2A?style=for-the-badge&logo=Coordinator&logoColor=white)
+<br>
+TestCodes | 
+![TDD](https://img.shields.io/badge/TDD-F54A2A?style=for-the-badge&logo=TDD&logoColor=white)
+![UITest](https://img.shields.io/badge/UITest-F54A2A?style=for-the-badge&logo=UITest&logoColor=white)
+![UnitTest](https://img.shields.io/badge/UnitTest-F54A2A?style=for-the-badge&logo=UnitTest&logoColor=white)
+![Snapshot](https://img.shields.io/badge/Snapshot-F54A2A?style=for-the-badge&logo=Snapshot&logoColor=white)
 
 ### 🛠️ CI/CD
 ![Fastlane](https://img.shields.io/badge/Fastlane-%232C5263.svg?style=for-the-badge&logo=Fastlane&logoColor=white)
@@ -76,5 +82,5 @@ Architecture |
 ### Github
 ![gom1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=gom1n&show_icons=true&title_color=8e59ff&icon_color=8e59ff&text_color=8e59ff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gom1n&theme=dracula&layout=compact&langs_count=20&hide=javascript,html,css)
-<br>
-🍏 [**gom1n.tistory**](https://gom1n.tistory.com/) 🍏 공부기록 개발 블로그
+### My Blog
+[**gom1n.tistory**](https://gom1n.tistory.com/)
