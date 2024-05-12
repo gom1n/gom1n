@@ -24,12 +24,10 @@ UI |
 ![UIKit](https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=UIKit&logoColor=white)
 ![SnapKit](https://img.shields.io/badge/SnapKit-F54A2A?style=for-the-badge&logo=SnapKit&logoColor=white)
 ![Then](https://img.shields.io/badge/Then-F54A2A?style=for-the-badge&logo=Then&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=SwiftUI&logoColor=white)
 <br>
-Library | 
+Frameworks | 
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-F54A2A?style=for-the-badge&logo=CocoaPods&logoColor=white)
 ![Carthage](https://img.shields.io/badge/Carthage-F54A2A?style=for-the-badge&logo=Carthage&logoColor=white)
-![Tuist](https://img.shields.io/badge/Tuist-F54A2A?style=for-the-badge&logo=Tuist&logoColor=white)
 <br>
 Http | 
 ![Alamofire](https://img.shields.io/badge/Alamofire-F54A2A?style=for-the-badge&logo=Alamofire&logoColor=white)
@@ -39,13 +37,17 @@ Architecture |
 ![CleanArchitecture](https://img.shields.io/badge/CleanArchitecture-F54A2A?style=for-the-badge&logo=CleanArchitecture&logoColor=white)
 ![ModlularArchitecture](https://img.shields.io/badge/ModlularArchitecture-F54A2A?style=for-the-badge&logo=ModlularArchitecture&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-F54A2A?style=for-the-badge&logo=MVVM&logoColor=white)
-![Coordinator](https://img.shields.io/badge/Coordinator-F54A2A?style=for-the-badge&logo=Coordinator&logoColor=white)
 <br>
 TestCodes | 
 ![TDD](https://img.shields.io/badge/TDD-F54A2A?style=for-the-badge&logo=TDD&logoColor=white)
 ![UITest](https://img.shields.io/badge/UITest-F54A2A?style=for-the-badge&logo=UITest&logoColor=white)
 ![UnitTest](https://img.shields.io/badge/UnitTest-F54A2A?style=for-the-badge&logo=UnitTest&logoColor=white)
 ![Snapshot](https://img.shields.io/badge/Snapshot-F54A2A?style=for-the-badge&logo=Snapshot&logoColor=white)
+<br>
+Studying... 
+![Tuist](https://img.shields.io/badge/Tuist-F54A2A?style=for-the-badge&logo=Tuist&logoColor=white)
+![Coordinator](https://img.shields.io/badge/Coordinator-F54A2A?style=for-the-badge&logo=Coordinator&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=SwiftUI&logoColor=white)
 
 ### 🛠️ CI/CD
 ![Fastlane](https://img.shields.io/badge/Fastlane-%232C5263.svg?style=for-the-badge&logo=Fastlane&logoColor=white)
