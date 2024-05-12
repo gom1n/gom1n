@@ -89,4 +89,4 @@ Studying...
 ![gom1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=gom1n&show_icons=true&title_color=8e59ff&icon_color=8e59ff&text_color=8e59ff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gom1n&theme=dracula&layout=compact&langs_count=20&hide=javascript,html,css)
 ### My Blog
-[**gom1n.tistory**](https://gom1n.tistory.com/)
+[**Gom1n의 티스토리 바로가기**](https://gom1n.tistory.com/)
