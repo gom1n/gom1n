@@ -16,26 +16,27 @@
 |  | Tech Stacks |
 | --- | --- |
 | Reactive | ![RxSwift](https://img.shields.io/badge/RxSwift-F54A2A?style=for-the-badge&logo=RxSwift&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-F54A2A?style=for-the-badge&logo=Combine&logoColor=white)|
-| UI | ![UIKit](https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=UIKit&logoColor=white) ![SnapKit](https://img.shields.io/badge/SnapKit-F54A2A?style=for-the-badge&logo=SnapKit&logoColor=white) ![Then](https://img.shields.io/badge/Then-F54A2A?style=for-the-badge&logo=Then&logoColor=white) |
+| UI | ![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=SwiftUI&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=UIKit&logoColor=white) ![SnapKit](https://img.shields.io/badge/SnapKit-F54A2A?style=for-the-badge&logo=SnapKit&logoColor=white) ![Then](https://img.shields.io/badge/Then-F54A2A?style=for-the-badge&logo=Then&logoColor=white) |
 | Frameworks | ![CocoaPods](https://img.shields.io/badge/CocoaPods-F54A2A?style=for-the-badge&logo=CocoaPods&logoColor=white) ![Carthage](https://img.shields.io/badge/Carthage-F54A2A?style=for-the-badge&logo=Carthage&logoColor=white) |
 | Http | ![Alamofire](https://img.shields.io/badge/Alamofire-F54A2A?style=for-the-badge&logo=Alamofire&logoColor=white) ![Moya](https://img.shields.io/badge/Moya-F54A2A?style=for-the-badge&logo=Moya&logoColor=white) |
-| Architecture | ![CleanArchitecture](https://img.shields.io/badge/CleanArchitecture-F54A2A?style=for-the-badge&logo=CleanArchitecture&logoColor=white) ![ModlularArchitecture](https://img.shields.io/badge/ModlularArchitecture-F54A2A?style=for-the-badge&logo=ModlularArchitecture&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-F54A2A?style=for-the-badge&logo=MVVM&logoColor=white) |
+| Architecture | ![TCA](https://img.shields.io/badge/TCA-F54A2A?style=for-the-badge&logo=TCA&logoColor=white) ![Coordinator](https://img.shields.io/badge/Coordinator-F54A2A?style=for-the-badge&logo=Coordinator&logoColor=white) ![CleanArchitecture](https://img.shields.io/badge/CleanArchitecture-F54A2A?style=for-the-badge&logo=CleanArchitecture&logoColor=white) ![ModlularArchitecture](https://img.shields.io/badge/ModlularArchitecture-F54A2A?style=for-the-badge&logo=ModlularArchitecture&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-F54A2A?style=for-the-badge&logo=MVVM&logoColor=white) |
 | TestCodes | ![TDD](https://img.shields.io/badge/TDD-F54A2A?style=for-the-badge&logo=TDD&logoColor=white) ![UITest](https://img.shields.io/badge/UITest-F54A2A?style=for-the-badge&logo=UITest&logoColor=white) ![UnitTest](https://img.shields.io/badge/UnitTest-F54A2A?style=for-the-badge&logo=UnitTest&logoColor=white) ![Snapshot](https://img.shields.io/badge/Snapshot-F54A2A?style=for-the-badge&logo=Snapshot&logoColor=white) |
 | Extensions | ![Share](https://img.shields.io/badge/Share-F54A2A?style=for-the-badge&logo=Share&logoColor=white) ![PushNotification](https://img.shields.io/badge/PushNotification-F54A2A?style=for-the-badge&logo=PushNotification&logoColor=white) |
-| Studying... | ![Tuist](https://img.shields.io/badge/Tuist-F54A2A?style=for-the-badge&logo=Tuist&logoColor=white) ![Coordinator](https://img.shields.io/badge/Coordinator-F54A2A?style=for-the-badge&logo=Coordinator&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=SwiftUI&logoColor=white) |
+| Studying... | ![Tuist](https://img.shields.io/badge/Tuist-F54A2A?style=for-the-badge&logo=Tuist&logoColor=white) |
 <br>
 
 ### 🛠️ CI/CD
 ![Fastlane](https://img.shields.io/badge/Fastlane-%232C5263.svg?style=for-the-badge&logo=Fastlane&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/GithubActions-%232C5263.svg?style=for-the-badge&logo=GithubActions&logoColor=white)
+![XcodeBuild](https://img.shields.io/badge/XcodeBuild-%232C5263.svg?style=for-the-badge&logo=XcodeBuild&logoColor=white)
 
 ### 📋 Domain
 ![Telecom](https://img.shields.io/badge/Telecom-2F3134?style=for-the-badge&logo=Telecom&logoColor=white)
 ![Chatting](https://img.shields.io/badge/Chatting-2F3134?style=for-the-badge&logo=Chatting&logoColor=white)
 ![ColdWallet](https://img.shields.io/badge/ColdWallet-2F3134?style=for-the-badge&logo=ColdWallet&logoColor=white)
 ![BlockChain](https://img.shields.io/badge/BlockChain-2F3134?style=for-the-badge&logo=BlockChain&logoColor=white)
-![Artmining](https://img.shields.io/badge/Artmining-2F3134?style=for-the-badge&logo=Artmining&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-2F3134?style=for-the-badge&logo=SSE&logoColor=white)
 
 ### 🤝 Cooperation Tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
